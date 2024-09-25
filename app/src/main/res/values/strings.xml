@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="facebook_app_id">405105077295594</string>
+    <string name="fb_login_protocol_scheme">fb405105077295594</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+</resources>
